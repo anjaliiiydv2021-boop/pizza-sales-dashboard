@@ -19,4 +19,4 @@ This project is built using **Excel** for data cleaning and preparation, and **P
 - Improved skills in **data analysis & visualization**
 - Learned how to combine Excel preprocessing with Power BI dashboards
 - Gained experience in presenting business insights effectively
-- [Pizza Sales Dashboard]()
+- [Pizza Sales Dashboard](Screenshot 2026-08-11 163517.png)
